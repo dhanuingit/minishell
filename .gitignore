@@ -1,0 +1,23 @@
+# Build output
+*.o
+*.obj
+*.d
+*.out
+*.exe
+*.so
+*.a
+a.out
+
+# Debug / core files
+core
+core.*
+*.dSYM/
+vgcore.*
+
+# Editor / OS junk
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
